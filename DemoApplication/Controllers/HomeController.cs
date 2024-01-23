@@ -26,5 +26,12 @@ namespace DemoApplication.Controllers
 
             return View();
         }
+
+        public ActionResult SignUpForm()
+        {
+            ViewBag.Message = "Login page.";
+
+            return View();
+        }
     }
 }
