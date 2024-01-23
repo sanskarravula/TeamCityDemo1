@@ -29,7 +29,7 @@ namespace DemoApplication.Controllers
 
         public ActionResult SignUpForm()
         {
-            ViewBag.Message = "Login page.";
+            ViewBag.Message = "login page.";
 
             return View();
         }
