@@ -161,6 +161,9 @@
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Home\SignUpForm.cshtml" />
+    <Content Include="Views\Folder1\Index1.cshtml" />
+    <Content Include="Views\Folder2\Index2.cshtml" />
+    <Content Include="Views\Folder3\Index3.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
